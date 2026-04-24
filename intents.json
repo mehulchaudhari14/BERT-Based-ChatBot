@@ -1,0 +1,754 @@
+{
+    "accept_reservations": [
+        "Let's get your accept reservations sorted out.",
+        "When would you like to make this booking?",
+        "I can help you reserve that."
+    ],
+    "account_blocked": [
+        "I can help you with account blocked.",
+        "Here is some information regarding your account blocked.",
+        "Let's look into account blocked together."
+    ],
+    "alarm": [
+        "I can help you with alarm.",
+        "Here is some information regarding your alarm.",
+        "Let's look into alarm together."
+    ],
+    "application_status": [
+        "The status of your application status is all good.",
+        "Let me check the application status for you.",
+        "Your application status is currently pending."
+    ],
+    "apr": [
+        "I can help you with apr.",
+        "Here is some information regarding your apr.",
+        "Let's look into apr together."
+    ],
+    "are_you_a_bot": [
+        "I can help you with are you a bot.",
+        "Here is some information regarding your are you a bot.",
+        "Let's look into are you a bot together."
+    ],
+    "balance": [
+        "Your account balance is ?10,000",
+        "You currently have ?10,000 in your account"
+    ],
+    "bill_balance": [
+        "I can help you with bill balance.",
+        "Here is some information regarding your bill balance.",
+        "Let's look into bill balance together."
+    ],
+    "bill_due": [
+        "I can help you with bill due.",
+        "Here is some information regarding your bill due.",
+        "Let's look into bill due together."
+    ],
+    "book_flight": [
+        "Where do you want to travel?",
+        "Please tell me your destination."
+    ],
+    "book_hotel": [
+        "Let's get your hotel sorted out.",
+        "When would you like to make this booking?",
+        "I can help you reserve that."
+    ],
+    "calculator": [
+        "I can help you with calculator.",
+        "Here is some information regarding your calculator.",
+        "Let's look into calculator together."
+    ],
+    "calendar": [
+        "I can help you with calendar.",
+        "Here is some information regarding your calendar.",
+        "Let's look into calendar together."
+    ],
+    "calendar_update": [
+        "I have successfully updated your calendar update.",
+        "Your calendar update request has been processed.",
+        "Ok, I am processing the calendar update."
+    ],
+    "calories": [
+        "I can help you with calories.",
+        "Here is some information regarding your calories.",
+        "Let's look into calories together."
+    ],
+    "cancel": [
+        "I can help you with cancel.",
+        "Here is some information regarding your cancel.",
+        "Let's look into cancel together."
+    ],
+    "cancel_reservation": [
+        "Let's get your cancel reservation sorted out.",
+        "When would you like to make this booking?",
+        "I can help you reserve that."
+    ],
+    "car_rental": [
+        "I can help you with car rental.",
+        "Here is some information regarding your car rental.",
+        "Let's look into car rental together."
+    ],
+    "card_declined": [
+        "I can help you with card declined.",
+        "Here is some information regarding your card declined.",
+        "Let's look into card declined together."
+    ],
+    "carry_on": [
+        "I can help you with carry on.",
+        "Here is some information regarding your carry on.",
+        "Let's look into carry on together."
+    ],
+    "change_accent": [
+        "I have successfully updated your accent.",
+        "Your change accent request has been processed.",
+        "Ok, I am processing the change accent."
+    ],
+    "change_ai_name": [
+        "I have successfully updated your ai name.",
+        "Your change ai name request has been processed.",
+        "Ok, I am processing the change ai name."
+    ],
+    "change_language": [
+        "I have successfully updated your language.",
+        "Your change language request has been processed.",
+        "Ok, I am processing the change language."
+    ],
+    "change_speed": [
+        "I have successfully updated your speed.",
+        "Your change speed request has been processed.",
+        "Ok, I am processing the change speed."
+    ],
+    "change_user_name": [
+        "I have successfully updated your user name.",
+        "Your change user name request has been processed.",
+        "Ok, I am processing the change user name."
+    ],
+    "change_volume": [
+        "I have successfully updated your volume.",
+        "Your change volume request has been processed.",
+        "Ok, I am processing the change volume."
+    ],
+    "confirm_reservation": [
+        "Let's get your confirm reservation sorted out.",
+        "When would you like to make this booking?",
+        "I can help you reserve that."
+    ],
+    "cook_time": [
+        "I can help you with cook time.",
+        "Here is some information regarding your cook time.",
+        "Let's look into cook time together."
+    ],
+    "credit_limit": [
+        "I can help you with credit limit.",
+        "Here is some information regarding your credit limit.",
+        "Let's look into credit limit together."
+    ],
+    "credit_limit_change": [
+        "I have successfully updated your credit limit.",
+        "Your credit limit change request has been processed.",
+        "Ok, I am processing the credit limit change."
+    ],
+    "credit_score": [
+        "I can help you with credit score.",
+        "Here is some information regarding your credit score.",
+        "Let's look into credit score together."
+    ],
+    "current_location": [
+        "I can help you with current location.",
+        "Here is some information regarding your current location.",
+        "Let's look into current location together."
+    ],
+    "damaged_card": [
+        "I can help you with damaged card.",
+        "Here is some information regarding your damaged card.",
+        "Let's look into damaged card together."
+    ],
+    "date": [
+        "I can help you with date.",
+        "Here is some information regarding your date.",
+        "Let's look into date together."
+    ],
+    "definition": [
+        "I can help you with definition.",
+        "Here is some information regarding your definition.",
+        "Let's look into definition together."
+    ],
+    "direct_deposit": [
+        "I can help you with direct deposit.",
+        "Here is some information regarding your direct deposit.",
+        "Let's look into direct deposit together."
+    ],
+    "directions": [
+        "I can help you with directions.",
+        "Here is some information regarding your directions.",
+        "Let's look into directions together."
+    ],
+    "distance": [
+        "I can help you with distance.",
+        "Here is some information regarding your distance.",
+        "Let's look into distance together."
+    ],
+    "do_you_have_pets": [
+        "I can help you with do you have pets.",
+        "Here is some information regarding your do you have pets.",
+        "Let's look into do you have pets together."
+    ],
+    "exchange_rate": [
+        "I have successfully updated your ex rate.",
+        "Your exchange rate request has been processed.",
+        "Ok, I am processing the exchange rate."
+    ],
+    "expiration_date": [
+        "I can help you with expiration date.",
+        "Here is some information regarding your expiration date.",
+        "Let's look into expiration date together."
+    ],
+    "find_phone": [
+        "I can help you with find phone.",
+        "Here is some information regarding your find phone.",
+        "Let's look into find phone together."
+    ],
+    "flight_status": [
+        "The status of your flight status is all good.",
+        "Let me check the flight status for you.",
+        "Your flight status is currently pending."
+    ],
+    "flip_coin": [
+        "I can help you with flip coin.",
+        "Here is some information regarding your flip coin.",
+        "Let's look into flip coin together."
+    ],
+    "food_last": [
+        "I can help you with food last.",
+        "Here is some information regarding your food last.",
+        "Let's look into food last together."
+    ],
+    "freeze_account": [
+        "I can help you with freeze account.",
+        "Here is some information regarding your freeze account.",
+        "Let's look into freeze account together."
+    ],
+    "fun_fact": [
+        "I can help you with fun fact.",
+        "Here is some information regarding your fun fact.",
+        "Let's look into fun fact together."
+    ],
+    "gas": [
+        "I can help you with gas.",
+        "Here is some information regarding your gas.",
+        "Let's look into gas together."
+    ],
+    "gas_type": [
+        "I can help you with gas type.",
+        "Here is some information regarding your gas type.",
+        "Let's look into gas type together."
+    ],
+    "goodbye": [
+        "Goodbye! Have a nice day ??",
+        "See you later!",
+        "Take care!"
+    ],
+    "greeting": [
+        "Hello! ?? How can I help you?",
+        "Hi there! What can I do for you?",
+        "Hey! Need any help?"
+    ],
+    "how_busy": [
+        "I can help you with how busy.",
+        "Here is some information regarding your how busy.",
+        "Let's look into how busy together."
+    ],
+    "how_old_are_you": [
+        "I can help you with how old are you.",
+        "Here is some information regarding your how old are you.",
+        "Let's look into how old are you together."
+    ],
+    "improve_credit_score": [
+        "I can help you with improve credit score.",
+        "Here is some information regarding your improve credit score.",
+        "Let's look into improve credit score together."
+    ],
+    "income": [
+        "I can help you with income.",
+        "Here is some information regarding your income.",
+        "Let's look into income together."
+    ],
+    "ingredient_substitution": [
+        "I can help you with ingredient substitution.",
+        "Here is some information regarding your ingredient substitution.",
+        "Let's look into ingredient substitution together."
+    ],
+    "ingredients_list": [
+        "I can help you with ingredients list.",
+        "Here is some information regarding your ingredients list.",
+        "Let's look into ingredients list together."
+    ],
+    "insurance": [
+        "I can help you with insurance.",
+        "Here is some information regarding your insurance.",
+        "Let's look into insurance together."
+    ],
+    "insurance_change": [
+        "I have successfully updated your insurance.",
+        "Your insurance change request has been processed.",
+        "Ok, I am processing the insurance change."
+    ],
+    "interest_rate": [
+        "I can help you with interest rate.",
+        "Here is some information regarding your interest rate.",
+        "Let's look into interest rate together."
+    ],
+    "international_fees": [
+        "I can help you with international fees.",
+        "Here is some information regarding your international fees.",
+        "Let's look into international fees together."
+    ],
+    "international_visa": [
+        "I can help you with international visa.",
+        "Here is some information regarding your international visa.",
+        "Let's look into international visa together."
+    ],
+    "jump_start": [
+        "I can help you with jump start.",
+        "Here is some information regarding your jump start.",
+        "Let's look into jump start together."
+    ],
+    "last_maintenance": [
+        "I can help you with last maintenance.",
+        "Here is some information regarding your last maintenance.",
+        "Let's look into last maintenance together."
+    ],
+    "lost_luggage": [
+        "I can help you with lost luggage.",
+        "Here is some information regarding your lost luggage.",
+        "Let's look into lost luggage together."
+    ],
+    "make_call": [
+        "I can help you with make call.",
+        "Here is some information regarding your make call.",
+        "Let's look into make call together."
+    ],
+    "maybe": [
+        "I can help you with maybe.",
+        "Here is some information regarding your maybe.",
+        "Let's look into maybe together."
+    ],
+    "meal_suggestion": [
+        "I can help you with meal suggestion.",
+        "Here is some information regarding your meal suggestion.",
+        "Let's look into meal suggestion together."
+    ],
+    "meaning_of_life": [
+        "I can help you with meaning of life.",
+        "Here is some information regarding your meaning of life.",
+        "Let's look into meaning of life together."
+    ],
+    "measurement_conversion": [
+        "I can help you with measurement conversion.",
+        "Here is some information regarding your measurement conversion.",
+        "Let's look into measurement conversion together."
+    ],
+    "meeting_schedule": [
+        "I can help you with meeting schedule.",
+        "Here is some information regarding your meeting schedule.",
+        "Let's look into meeting schedule together."
+    ],
+    "min_payment": [
+        "I can help you with min payment.",
+        "Here is some information regarding your min payment.",
+        "Let's look into min payment together."
+    ],
+    "mpg": [
+        "I can help you with mpg.",
+        "Here is some information regarding your mpg.",
+        "Let's look into mpg together."
+    ],
+    "new_card": [
+        "I can help you with new card.",
+        "Here is some information regarding your new card.",
+        "Let's look into new card together."
+    ],
+    "next_holiday": [
+        "I can help you with next holiday.",
+        "Here is some information regarding your next holiday.",
+        "Let's look into next holiday together."
+    ],
+    "next_song": [
+        "I can help you with next song.",
+        "Here is some information regarding your next song.",
+        "Let's look into next song together."
+    ],
+    "no": [
+        "I can help you with no.",
+        "Here is some information regarding your no.",
+        "Let's look into no together."
+    ],
+    "nutrition_info": [
+        "I can help you with nutrition info.",
+        "Here is some information regarding your nutrition info.",
+        "Let's look into nutrition info together."
+    ],
+    "oil_change_how": [
+        "I have successfully updated your oil  how.",
+        "Your oil change how request has been processed.",
+        "Ok, I am processing the oil change how."
+    ],
+    "oil_change_when": [
+        "I have successfully updated your oil  when.",
+        "Your oil change when request has been processed.",
+        "Ok, I am processing the oil change when."
+    ],
+    "order": [
+        "I can help you with order.",
+        "Here is some information regarding your order.",
+        "Let's look into order together."
+    ],
+    "order_checks": [
+        "I can help you with order checks.",
+        "Here is some information regarding your order checks.",
+        "Let's look into order checks together."
+    ],
+    "order_status": [
+        "The status of your order status is all good.",
+        "Let me check the order status for you.",
+        "Your order status is currently pending."
+    ],
+    "pay_bill": [
+        "I can help you with pay bill.",
+        "Here is some information regarding your pay bill.",
+        "Let's look into pay bill together."
+    ],
+    "payday": [
+        "I can help you with payday.",
+        "Here is some information regarding your payday.",
+        "Let's look into payday together."
+    ],
+    "pin_change": [
+        "I have successfully updated your pin.",
+        "Your pin change request has been processed.",
+        "Ok, I am processing the pin change."
+    ],
+    "play_music": [
+        "I can help you with play music.",
+        "Here is some information regarding your play music.",
+        "Let's look into play music together."
+    ],
+    "plug_type": [
+        "I can help you with plug type.",
+        "Here is some information regarding your plug type.",
+        "Let's look into plug type together."
+    ],
+    "pto_balance": [
+        "I can help you with pto balance.",
+        "Here is some information regarding your pto balance.",
+        "Let's look into pto balance together."
+    ],
+    "pto_request": [
+        "I can help you with pto request.",
+        "Here is some information regarding your pto request.",
+        "Let's look into pto request together."
+    ],
+    "pto_request_status": [
+        "The status of your pto request status is all good.",
+        "Let me check the pto request status for you.",
+        "Your pto request status is currently pending."
+    ],
+    "pto_used": [
+        "I can help you with pto used.",
+        "Here is some information regarding your pto used.",
+        "Let's look into pto used together."
+    ],
+    "recipe": [
+        "I can help you with recipe.",
+        "Here is some information regarding your recipe.",
+        "Let's look into recipe together."
+    ],
+    "redeem_rewards": [
+        "I can help you with redeem rewards.",
+        "Here is some information regarding your redeem rewards.",
+        "Let's look into redeem rewards together."
+    ],
+    "reminder": [
+        "I can help you with reminder.",
+        "Here is some information regarding your reminder.",
+        "Let's look into reminder together."
+    ],
+    "reminder_update": [
+        "I have successfully updated your reminder update.",
+        "Your reminder update request has been processed.",
+        "Ok, I am processing the reminder update."
+    ],
+    "repeat": [
+        "I can help you with repeat.",
+        "Here is some information regarding your repeat.",
+        "Let's look into repeat together."
+    ],
+    "replacement_card_duration": [
+        "I can help you with replacement card duration.",
+        "Here is some information regarding your replacement card duration.",
+        "Let's look into replacement card duration together."
+    ],
+    "report_fraud": [
+        "I can help you with report fraud.",
+        "Here is some information regarding your report fraud.",
+        "Let's look into report fraud together."
+    ],
+    "report_lost_card": [
+        "I can help you with report lost card.",
+        "Here is some information regarding your report lost card.",
+        "Let's look into report lost card together."
+    ],
+    "reset_settings": [
+        "I can help you with reset settings.",
+        "Here is some information regarding your reset settings.",
+        "Let's look into reset settings together."
+    ],
+    "restaurant_reservation": [
+        "Let's get your restaurant reservation sorted out.",
+        "When would you like to make this booking?",
+        "I can help you reserve that."
+    ],
+    "restaurant_reviews": [
+        "I can help you with restaurant reviews.",
+        "Here is some information regarding your restaurant reviews.",
+        "Let's look into restaurant reviews together."
+    ],
+    "restaurant_suggestion": [
+        "I can help you with restaurant suggestion.",
+        "Here is some information regarding your restaurant suggestion.",
+        "Let's look into restaurant suggestion together."
+    ],
+    "rewards_balance": [
+        "I can help you with rewards balance.",
+        "Here is some information regarding your rewards balance.",
+        "Let's look into rewards balance together."
+    ],
+    "roll_dice": [
+        "I can help you with roll dice.",
+        "Here is some information regarding your roll dice.",
+        "Let's look into roll dice together."
+    ],
+    "rollover_401k": [
+        "I can help you with rollover 401k.",
+        "Here is some information regarding your rollover 401k.",
+        "Let's look into rollover 401k together."
+    ],
+    "routing": [
+        "I can help you with routing.",
+        "Here is some information regarding your routing.",
+        "Let's look into routing together."
+    ],
+    "schedule_maintenance": [
+        "I can help you with schedule maintenance.",
+        "Here is some information regarding your schedule maintenance.",
+        "Let's look into schedule maintenance together."
+    ],
+    "schedule_meeting": [
+        "I can help you with schedule meeting.",
+        "Here is some information regarding your schedule meeting.",
+        "Let's look into schedule meeting together."
+    ],
+    "share_location": [
+        "I can help you with share location.",
+        "Here is some information regarding your share location.",
+        "Let's look into share location together."
+    ],
+    "shopping_list": [
+        "I can help you with shopping list.",
+        "Here is some information regarding your shopping list.",
+        "Let's look into shopping list together."
+    ],
+    "shopping_list_update": [
+        "I have successfully updated your shopping list update.",
+        "Your shopping list update request has been processed.",
+        "Ok, I am processing the shopping list update."
+    ],
+    "smart_home": [
+        "I can help you with smart home.",
+        "Here is some information regarding your smart home.",
+        "Let's look into smart home together."
+    ],
+    "spelling": [
+        "I can help you with spelling.",
+        "Here is some information regarding your spelling.",
+        "Let's look into spelling together."
+    ],
+    "spending_history": [
+        "I can help you with spending history.",
+        "Here is some information regarding your spending history.",
+        "Let's look into spending history together."
+    ],
+    "sync_device": [
+        "I can help you with sync device.",
+        "Here is some information regarding your sync device.",
+        "Let's look into sync device together."
+    ],
+    "taxes": [
+        "I can help you with taxes.",
+        "Here is some information regarding your taxes.",
+        "Let's look into taxes together."
+    ],
+    "tell_joke": [
+        "I can help you with tell joke.",
+        "Here is some information regarding your tell joke.",
+        "Let's look into tell joke together."
+    ],
+    "text": [
+        "I can help you with text.",
+        "Here is some information regarding your text.",
+        "Let's look into text together."
+    ],
+    "thank_you": [
+        "I can help you with thank you.",
+        "Here is some information regarding your thank you.",
+        "Let's look into thank you together."
+    ],
+    "time": [
+        "I can help you with time.",
+        "Here is some information regarding your time.",
+        "Let's look into time together."
+    ],
+    "timer": [
+        "I can help you with timer.",
+        "Here is some information regarding your timer.",
+        "Let's look into timer together."
+    ],
+    "timezone": [
+        "I can help you with timezone.",
+        "Here is some information regarding your timezone.",
+        "Let's look into timezone together."
+    ],
+    "tire_change": [
+        "I have successfully updated your tire.",
+        "Your tire change request has been processed.",
+        "Ok, I am processing the tire change."
+    ],
+    "tire_pressure": [
+        "I can help you with tire pressure.",
+        "Here is some information regarding your tire pressure.",
+        "Let's look into tire pressure together."
+    ],
+    "todo_list": [
+        "I can help you with todo list.",
+        "Here is some information regarding your todo list.",
+        "Let's look into todo list together."
+    ],
+    "todo_list_update": [
+        "I have successfully updated your todo list update.",
+        "Your todo list update request has been processed.",
+        "Ok, I am processing the todo list update."
+    ],
+    "traffic": [
+        "I can help you with traffic.",
+        "Here is some information regarding your traffic.",
+        "Let's look into traffic together."
+    ],
+    "transactions": [
+        "I can help you with transactions.",
+        "Here is some information regarding your transactions.",
+        "Let's look into transactions together."
+    ],
+    "transfer": [
+        "Sure! Please provide recipient details.",
+        "How much amount do you want to transfer?"
+    ],
+    "translate": [
+        "I can help you with translate.",
+        "Here is some information regarding your translate.",
+        "Let's look into translate together."
+    ],
+    "travel_alert": [
+        "I can help you with travel alert.",
+        "Here is some information regarding your travel alert.",
+        "Let's look into travel alert together."
+    ],
+    "travel_notification": [
+        "I can help you with travel notification.",
+        "Here is some information regarding your travel notification.",
+        "Let's look into travel notification together."
+    ],
+    "travel_suggestion": [
+        "I can help you with travel suggestion.",
+        "Here is some information regarding your travel suggestion.",
+        "Let's look into travel suggestion together."
+    ],
+    "uber": [
+        "I can help you with uber.",
+        "Here is some information regarding your uber.",
+        "Let's look into uber together."
+    ],
+    "update_playlist": [
+        "I have successfully updated your update playlist.",
+        "Your update playlist request has been processed.",
+        "Ok, I am processing the update playlist."
+    ],
+    "user_name": [
+        "I can help you with user name.",
+        "Here is some information regarding your user name.",
+        "Let's look into user name together."
+    ],
+    "vaccines": [
+        "I can help you with vaccines.",
+        "Here is some information regarding your vaccines.",
+        "Let's look into vaccines together."
+    ],
+    "w2": [
+        "I can help you with w2.",
+        "Here is some information regarding your w2.",
+        "Let's look into w2 together."
+    ],
+    "weather": [
+        "It's sunny today ??",
+        "Weather looks pleasant!"
+    ],
+    "what_are_your_hobbies": [
+        "That's a great question about what are your hobbies.",
+        "I have the answer for what are your hobbies right here.",
+        "Let me tell you about what are your hobbies."
+    ],
+    "what_can_i_ask_you": [
+        "That's a great question about what can i ask you.",
+        "I have the answer for what can i ask you right here.",
+        "Let me tell you about what can i ask you."
+    ],
+    "what_is_your_name": [
+        "That's a great question about what is your name.",
+        "I have the answer for what is your name right here.",
+        "Let me tell you about what is your name."
+    ],
+    "what_song": [
+        "That's a great question about what song.",
+        "I have the answer for what song right here.",
+        "Let me tell you about what song."
+    ],
+    "where_are_you_from": [
+        "I can help you with where are you from.",
+        "Here is some information regarding your where are you from.",
+        "Let's look into where are you from together."
+    ],
+    "whisper_mode": [
+        "I can help you with whisper mode.",
+        "Here is some information regarding your whisper mode.",
+        "Let's look into whisper mode together."
+    ],
+    "who_do_you_work_for": [
+        "That's a great question about who do you work for.",
+        "I have the answer for who do you work for right here.",
+        "Let me tell you about who do you work for."
+    ],
+    "who_made_you": [
+        "That's a great question about who made you.",
+        "I have the answer for who made you right here.",
+        "Let me tell you about who made you."
+    ],
+    "yes": [
+        "Okay! Great.",
+        "Got it!",
+        "Understood.",
+        "Sure thing!"
+    ],
+    "fallback": [
+        "Sorry, I didn't understand that.",
+        "Can you please rephrase?",
+        "I'm not sure about that."
+    ]
+}

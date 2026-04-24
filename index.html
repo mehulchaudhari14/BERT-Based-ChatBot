@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Intent Chatbot</title>
+    <!-- Modern Typography: Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="header-info">
+                <div class="avatar">
+                    <span class="bot-icon">🤖</span>
+                    <div class="status-indicator"></div>
+                </div>
+                <div>
+                    <h1>BERT Predictor</h1>
+                    <p class="status-text">Online - Ready to chat</p>
+                </div>
+            </div>
+        </header>
+
+        <!-- Chat Area -->
+        <main class="chat-box" id="chat-box">
+            <!-- Initial Greeting -->
+            <div class="message bot">
+                <div class="message-content">
+                    Hello! I'm your BERT intent prediction chatbot. How can I help you today?
+                </div>
+                <span class="time">Just now</span>
+            </div>
+        </main>
+
+        <!-- Input Area -->
+        <footer class="chat-input-wrapper">
+            <form id="chat-form">
+                <input type="text" id="user-input" autocomplete="off" placeholder="Type your message..." required />
+                <button type="submit" id="send-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </form>
+        </footer>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
