@@ -123,10 +123,12 @@ class ChatRequestHandler(BaseHTTPRequestHandler):
             self.send_response(404)
             self.end_headers()
 
-def run(server_class=HTTPServer, handler_class=ChatRequestHandler, port=8000):
-    server_address = ('127.0.0.1', port)
+def run(server_class=HTTPServer, handler_class=ChatRequestHandler, port=None):
+    if port is None:
+        port = int(os.environ.get("PORT", 7860))
+    server_address = ('0.0.0.0', port)
     httpd = server_class(server_address, handler_class)
-    print(f"Starting lightweight server on http://127.0.0.1:{port}")
+    print(f"Starting server on http://0.0.0.0:{port}")
     httpd.serve_forever()
 
 if __name__ == '__main__':

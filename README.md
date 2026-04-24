@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NLP Intent ChatBot with BERT
 
 A sophisticated, web-based chatbot application that utilizes a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model to accurately predict user intents and provide contextually relevant responses. Featuring a premium, modern UI with glassmorphism aesthetics.
